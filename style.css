@@ -85,6 +85,17 @@ h2 {
 .project a:hover {
     background: #005fa3;
 }
+/* Project image */
+.project img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* Buttons spacing */
+.project a {
+    margin-right: 10px;
+}
 
 /* Footer */
 footer {
